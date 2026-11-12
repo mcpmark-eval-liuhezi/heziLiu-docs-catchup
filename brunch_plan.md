@@ -1,48 +1,72 @@
-# Chinese Brunch Plan for Four
+# Chinese Brunch Plan (手抓饼 + 茶叶蛋)
 
-**Date: Saturday, September 19, 2026 (9:00 AM - 11:00 AM)**
+**Date:** Saturday, September 19, 2026 (morning, ~10:00 AM)
+**Source:** HowToCook open-source Chinese home-cooking recipe book
+**Servings:** 4 people
 
-Source: HowToCook open-source Chinese home-cooking recipe book (https://github.com/Anduin2017/HowToCook)
+---
 
-## Menu
+## Dish 1: 手抓饼 (Shou Zhua Bing / Hand-Pulled Pancake)
 
-### Main: Shou Zhua Bing (Hand-Pulled Flaky Pancake Wrap) 手抓饼
-- **Difficulty:** ★★ (2/5) — beginner friendly
-- **Servings:** 1 per recipe — multiply ingredients by 4 for your family of four
-- **Ingredients (per serving, scale x4):**
-  - 面粉 (All-purpose flour) — 200 g
-  - 开水 (Boiling water) — 100 ml
-  - 冷水 (Cold water) — 50 ml
-  - 食用油 (Cooking oil) — 15 ml
-  - 盐 (Salt) — 3 g
-  - 鸡蛋 (Egg) — 1
-  - 生菜 (Lettuce) — 30 g
-  - 火腿 (Ham) — 30 g
-  - 芝士片 (Sliced cheese) — 1 slice
-- **Method:** This is a half-hot-water dough (半烫面). Mix 100 ml boiling water into 200 g flour, then add 50 ml cold water, 15 ml oil and 3 g salt. Knead to a smooth dough and rest 30 minutes. Divide into portions, roll thin, spread with oil and salt, coil into a spiral, rest again, then roll out thin again. Pan-fry in a little oil over medium heat until golden and flaky on both sides. Top with a fried egg, lettuce, ham and a slice of cheese, fold and serve.
+**Difficulty:** ★★ (2/5) | **Category:** 早餐 (Breakfast) | **Base servings:** 1 (scale ingredients x4)
 
-### Companion: Tea Eggs 茶叶蛋
-- **Difficulty:** ★★★
-- **Why paired:** Make-ahead friendly (recipe notes it works well on weekends; one batch of ~8 eggs feeds 2-3 people), and the savory tea flavor complements the pancake nicely.
-- **Ingredients:** Eggs 400 g (~8), star anise ~2 pieces (4 g), bay leaves 2 (0.5-1 g), cassia bark 1 small piece (3 g), fennel 5 g, rock sugar 15 g, black tea 20 g, light soy sauce 15 g, dark soy sauce 25 g, salt 3 g
-- **Method:** Place eggs in a pot, cover with the spiced tea broth (water + tea + aromatics + rock sugar + soy sauces + salt). Simmer 30 minutes, then let eggs sit in the broth overnight for maximum flavor.
+### Ingredients (per serving — multiply by 4 for your family)
 
-## Calendar Check (September 1-30, 2026)
+| Ingredient | Quantity |
+|---|---|
+| 面粉 (all-purpose flour) | 200 g |
+| 开水 (boiling water) | 100 ml |
+| 冷水 (cold water) | 50 ml |
+| 食用油 (cooking oil) | 15 ml |
+| 盐 (salt) | 3 g |
+| 鸡蛋 (egg) | 1 |
+| 生菜 (lettuce) | 30 g |
+| 火腿 (ham) | 30 g |
+| 芝士片 (cheese slice) | 1 slice |
 
-The only existing event all month is:
-- **Academic Committee Meeting** — Friday, September 4, 2026, 2:00-4:00 PM, HKUST Conference Room A (curriculum and teaching plan review)
+### Steps
 
-This falls outside your target window (Sept 16-30). **Both weekend mornings are completely free.** Recommended date: **Saturday, September 19, 2026, 9:00 AM**.
+1. **Make the dough (半烫面):** Mix 200 g flour with 100 ml boiling water, then add 50 ml cold water and 3 g salt. Knead into a smooth dough and rest for ~30 minutes.
+2. **Prepare the layers:** Divide the dough into portions. Roll each portion thin, then brush with 15 ml cooking oil and sprinkle with salt. Layer with additional thin flour sheets (or cut into strips and coil) to create flaky layers.
+3. **Rest the dough** for another 15-20 minutes, then roll it out thin again into a layered pancake.
+4. **Pan-fry:** Heat a pan with a little oil over medium heat. Cook the pancake until golden and crispy on both sides, fluffing it up with spatula presses so layers separate.
+5. **Add the egg:** crack an egg onto the pan next to the pancake, cook until the white is set, and lay the pancake over the egg.
+6. **Assemble:** add lettuce (30 g), ham (30 g), and a cheese slice (1) onto the pancake, fold or roll it up, and serve hot.
 
-## Shopping List (for 4 people)
+---
 
-- All-purpose flour — 800 g
-- Eggs — 4
-- Fresh lettuce — ~120 g
-- Ham — ~120 g
-- Sliced cheese — 4 slices
-- Black tea — 20 g
-- Rock sugar — 15 g
-- Light soy sauce — 15 g
-- Dark soy sauce — 25 g
-- Star anise, bay leaves, cassia bark, fennel — small amounts
+## Dish 2: 茶叶蛋 (Tea Eggs)
+
+**Difficulty:** ★★★ (3/5) | **Category:** 早餐 (Breakfast) | **Makes:** ~8 eggs (feeds 2-3; scale up for 4)
+
+### Ingredients
+
+- 鸡蛋 400 g (~8 eggs)
+- 八角 (star anise) 4 g (~2 pieces)
+- 香叶 (bay leaves) 0.5-1 g (~2 pieces)
+- 桂皮 (cinnamon) 3 g (1 small piece)
+- 茴香 (fennel) 5 g
+- 冰糖 (rock sugar) 15 g
+- 红茶 (black tea) 20 g
+- 生抽 (light soy sauce) 15 g
+- 老抽 (dark soy sauce) 25 g
+- 食盐 (salt) 3 g
+
+### Steps (brief)
+
+1. Tap-crack 8 eggs against the side of a bowl to crack the shells slightly; cover ~2/3 with cold water.
+2. Add star anise, bay leaves, cinnamon, fennel, rock sugar, black tea, both soy sauces, and salt; bring to a boil.
+3. Simmer 20-30 minutes, then let the eggs sit in the broth overnight (or 2+ hours) for maximum flavor.
+4. Peeled or unpeeled, serve warm or chilled — great with the 手抓饼.
+
+---
+
+## Why this pairing works
+
+- **Tea eggs are make-ahead:** They taste better the next day, so you can prepare them Saturday morning while the pancakes are fresh.
+- **Complementary textures:** Crispy, flaky 手抓饼 + soft, umami-rich tea eggs = a balanced Chinese brunch.
+- **Both are in the 早餐 category** of HowToCook, so the whole menu stays true to the collection.
+
+---
+
+*Menu sourced from HowToCook (https://github.com/Anduin2017/HowToCook) — an open-source Chinese home-cooking recipe book.*
